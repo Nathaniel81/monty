@@ -1,7 +1,7 @@
 #include "monty.h"
 
 /**
- * dlistint_len - Computes the length of a list. 
+ * dlistint_len - Computes the length of a list.
  * @h: A pointer to the head of the list
  *
  * Return: Number of nodes in the list

@@ -1,7 +1,7 @@
 #include "monty.h"
 
 /**
- * push - Pushes value to stack. 
+ * push - Pushes value to stack.
  *
  * @stack: A pointer to a pointer to the begining of the stack
  * implementation list.
