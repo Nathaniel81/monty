@@ -1,7 +1,7 @@
 #include "monty.h"
 
 /**
- * mod - calculates the remainder of the stack's top element's division by the 
+ * mod - calculates the remainder of the stack's top element's division by the
  * second-top element.
  * @stack: A pointer to a pointer to the beginning of the stack
  * @line_number: Line number.
