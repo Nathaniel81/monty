@@ -1,7 +1,7 @@
 #include "monty.h"
 #include <stdio.h>
 
-stack_t *h; 
+stack_t *h;
 FILE *file;
 char *value;
 int mode;
